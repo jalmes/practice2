@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "RESULT"
+echo "RESULTS"
 find /home/jalmes/Documents/test/ -mtime -2 
