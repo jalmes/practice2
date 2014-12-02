@@ -1,3 +1,4 @@
 #!/bin/bash
- 
-echo "Hello World!"
+
+echo "RESULT"
+find /home/jalmes/Documents/test/ -mtime -2 
